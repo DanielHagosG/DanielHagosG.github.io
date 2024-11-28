@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/DanielHagosG.github.io/static/css/main.bbc654b5.css",
+    "main.js": "/DanielHagosG.github.io/static/js/main.18ef32bd.js",
+    "index.html": "/DanielHagosG.github.io/index.html",
+    "main.bbc654b5.css.map": "/DanielHagosG.github.io/static/css/main.bbc654b5.css.map",
+    "main.18ef32bd.js.map": "/DanielHagosG.github.io/static/js/main.18ef32bd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bbc654b5.css",
+    "static/js/main.18ef32bd.js"
+  ]
+}
